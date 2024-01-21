@@ -20,7 +20,7 @@ import java.util.concurrent.Executors;
 
 public class EjemploExecutor {
 	 public static void main(String[] args) {
-	        System.out.println("Dentro de : " + Thread.currentThread().getName());
+	        System.out.println("Dentro de: " + Thread.currentThread().getName());
 
 	        System.out.println("Creando el 'Executor Service' con un Pool de hilos de tamano 2");
 	        ExecutorService executorService = Executors.newFixedThreadPool(2);
