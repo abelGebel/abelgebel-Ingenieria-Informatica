@@ -31,7 +31,7 @@ public class Principal {
 			char[] charValues = {'s','n'};
 			opcion=Helper.getCharacter(input, "Desea continuar? (s/n)","INGRESO NO VALIDO...", charValues);
 			System.out.println();
-			if(opcion=='n'||opcion=='N') {
+			if(opcion=='n') {
 				break;
 				
 			}
