@@ -1,0 +1,5 @@
+11111111;Gebel Abel;9
+242725998;Lopez Diego;7
+739836192;Gallardo Manuel;4
+339098467;Vega Mauricio;6
+42982100;Villegas Roman;1
